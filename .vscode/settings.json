@@ -1,0 +1,10 @@
+{
+    "editor.tokenColorCustomizations": 
+    
+    {
+        "comments": "#00FFFF"
+    },
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
